@@ -1,3 +1,3 @@
 function updateMessage() {
-  document.getElementById("message").innerText = "Hello User!";
+  document.getElementById("message").innerText = "Welcome Bro 🔥";
 }
